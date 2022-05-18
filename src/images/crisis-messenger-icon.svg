@@ -1,0 +1,18 @@
+<svg id="Group_2170" data-name="Group 2170" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100" height="100" viewBox="0 0 100 100">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1840" data-name="Rectangle 1840" width="100" height="100" fill="none" stroke="#707070" stroke-width="5"/>
+    </clipPath>
+  </defs>
+  <g id="Group_2148" data-name="Group 2148" transform="translate(0 0)" clip-path="url(#clip-path)">
+    <path id="Path_1654" data-name="Path 1654" d="M5.058,60.855l9.4-42.926s1.205-11.391,20.894-11,20.759,4.319,23.731,17.894l7.557,36.03Z" transform="translate(13.363 18.449)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <path id="Path_1655" data-name="Path 1655" d="M16.756,21.642C.156,21.678,3.346,40.5,3.346,40.5H79.932c1.311-19.889-13.552-18.855-13.552-18.855" transform="translate(8.191 57.673)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <ellipse id="Ellipse_150" data-name="Ellipse 150" cx="14.757" cy="14.855" rx="14.757" ry="14.855" transform="translate(34.456 39.854)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_54" data-name="Line 54" y1="9.741" transform="translate(50.219 69.564)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_55" data-name="Line 55" y2="17.491" transform="translate(49.75 1.832)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_56" data-name="Line 56" x1="11.854" y2="12.795" transform="translate(74.074 10.579)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_57" data-name="Line 57" x2="11.854" y2="12.798" transform="translate(14.073 10.576)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_58" data-name="Line 58" x1="17.164" y2="2.739" transform="translate(81.015 40.205)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+    <line id="Line_59" data-name="Line 59" x2="17.168" y2="2.739" transform="translate(1.821 40.202)" fill="none" stroke="#fff" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5"/>
+  </g>
+</svg>

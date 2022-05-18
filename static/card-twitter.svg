@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216.076" height="158.593" viewBox="0 0 216.076 158.593">
+  <defs>
+    <filter id="Rectangle_820" x="0" y="0" width="216.076" height="158.593" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#696969" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_874" data-name="Rectangle 874" width="192.076" height="134.593" rx="10" transform="translate(126 3655)" fill="#b9c8da"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1091" data-name="Group 1091" transform="translate(-575 -3807)">
+    <g transform="matrix(1, 0, 0, 1, 575, 3807)" filter="url(#Rectangle_820)">
+      <rect id="Rectangle_820-2" data-name="Rectangle 820" width="192.076" height="134.593" rx="10" transform="translate(12 8)" fill="#fff"/>
+    </g>
+    <path id="Icon_awesome-twitter" data-name="Icon awesome-twitter" d="M67.4,18.586c.048.667.048,1.335.048,2,0,20.354-15.492,43.806-43.806,43.806A43.509,43.509,0,0,1,0,57.483a31.852,31.852,0,0,0,3.718.191A30.835,30.835,0,0,0,22.833,51.1a15.424,15.424,0,0,1-14.4-10.677,19.415,19.415,0,0,0,2.908.238,16.284,16.284,0,0,0,4.052-.524A15.4,15.4,0,0,1,3.051,25.022v-.191a15.506,15.506,0,0,0,6.959,1.954A15.419,15.419,0,0,1,5.243,6.193,43.764,43.764,0,0,0,36.99,22.3a17.38,17.38,0,0,1-.381-3.527A15.411,15.411,0,0,1,63.254,8.243a30.313,30.313,0,0,0,9.772-3.718,15.355,15.355,0,0,1-6.769,8.485,30.866,30.866,0,0,0,8.866-2.383,33.1,33.1,0,0,1-7.722,7.96Z" transform="translate(645 3847.619)" fill="#075384" stroke="#0e3b71" stroke-width="1"/>
+    <g id="Mask_Group_286" data-name="Mask Group 286" transform="translate(461 160)" clip-path="url(#clip-path)">
+      <g id="Group_965" data-name="Group 965">
+        <path id="Path_716" data-name="Path 716" d="M0,73.6s5.3-47.417,42.568-38.04l1.3.464.1.028h0c21.281,7.915,25.458-1.916,25.458-1.916s3.837-5.581,2.691-18.185S84.172-6.013,99.7,4.632c.248.17.493.343.813.575,12.767,8.269,19.7,29.378,46.19,29.275l.846-.043c8.59.081,19.364-5.209,19.364-5.209s13.538-7.611,18.154-2.739c.055.059.055.074.172.2.03,1.719,0,2.539,0,2.539V74.108Z" transform="translate(230.722 3733.282)" fill="#febe10"/>
+        <path id="Path_724" data-name="Path 724" d="M0,.2s62.953-4.1,61.775,25.214c0,.153-.06,1.02-.06,1.02s.044,4.951-11.453,20.306S46.044,77.188,60.4,89.145s14.291,32.453-2.01,50.944S41.348,166.7,46.7,191.6s-22.618,25.73-22.618,25.73Z" transform="matrix(0.174, -0.985, 0.985, 0.174, 41.656, 3793.094)" fill="rgba(254,190,16,0.25)"/>
+        <g id="Group_974" data-name="Group 974" transform="matrix(1, 0.017, -0.017, 1, 65.32, -2.617)">
+          <path id="Path_728" data-name="Path 728" d="M.9,101.385S78.422,125.89,52.469,95.3h0s-1.071-1.311-8.515-8.567-1.72-19.526,7.291-26.016,8.839-17.79-1.591-28.1S39.948,18.5,43.176,4.817s-10.751,8.61-10.751,8.61Z" transform="translate(207.871 3616.317) rotate(68)" fill="#b9c8da"/>
+          <path id="Path_735" data-name="Path 735" d="M206.461,3660.312s8.3-5.536,27.982-.28,25.636,2.535,25.968-5.229-2.04-1.839-2.04-1.839H202.9Z" transform="translate(-0.882 1.01)" fill="#b9c8da"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

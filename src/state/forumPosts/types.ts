@@ -1,0 +1,7 @@
+const types = {
+  FORUM_POSTS_LOADING: "FORUM_POSTS_LOADING",
+  FORUM_POSTS_DATA: "FORUM_POSTS_DATA",
+  FORUM_POSTS_ERROR: "FORUM_POSTS_ERROR",
+};
+
+export default types;

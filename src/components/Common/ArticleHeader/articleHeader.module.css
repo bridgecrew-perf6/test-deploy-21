@@ -1,0 +1,19 @@
+.topBanner {
+  background-image: url("./images/top-blue-banner.png");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  background-position: center;
+
+  background-repeat: no-repeat;
+  width: 100% !important;
+  height: 128px;
+}
+
+@media only screen and (min-device-width: 320px) and (max-device-width: 1023px) {
+  .topBanner {
+    background-image: url("./images/top-blue-banner-mobile.png");
+    height: 100px;
+  }
+}

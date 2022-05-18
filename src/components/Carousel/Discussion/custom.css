@@ -1,0 +1,21 @@
+.slick-slide img {
+  border: 0px !important;
+  margin: 0px !important;
+}
+
+.slick-slide > div {
+  margin: 0 30px;
+}
+.slick-list {
+  margin: 0 -30px;
+  background: white !important;
+}
+
+@media only screen and (min-device-width: 220px) and (max-device-width: 720px) {
+  .slick-slide > div {
+    margin: 0 10px;
+  }
+  .slick-list {
+    margin: 0 -10px;
+  }
+}

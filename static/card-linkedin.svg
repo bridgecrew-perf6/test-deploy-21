@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="216.076" height="158.593" viewBox="0 0 216.076 158.593">
+  <defs>
+    <filter id="Rectangle_818" x="0" y="0" width="216.076" height="158.593" filterUnits="userSpaceOnUse">
+      <feOffset dy="4" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feFlood flood-color="#696969" flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_878" data-name="Rectangle 878" width="192.076" height="134.593" rx="10" transform="translate(133 3655)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Group_1093" data-name="Group 1093" transform="translate(-1029 -3807)">
+    <g transform="matrix(1, 0, 0, 1, 1029, 3807)" filter="url(#Rectangle_818)">
+      <rect id="Rectangle_818-2" data-name="Rectangle 818" width="192.076" height="134.593" rx="10" transform="translate(12 8)" fill="#fff"/>
+    </g>
+    <path id="Icon_awesome-linkedin-in" data-name="Icon awesome-linkedin-in" d="M14.908,66.6H1.1V22.134H14.908ZM8,16.069a8.034,8.034,0,1,1,8-8.072A8.064,8.064,0,0,1,8,16.069ZM66.584,66.6H52.807V44.953c0-5.158-.1-11.774-7.179-11.774-7.179,0-8.279,5.6-8.279,11.4V66.6H23.557V22.134H36.8V28.2h.193c1.843-3.493,6.346-7.18,13.064-7.18,13.974,0,16.543,9.2,16.543,21.154V66.6Z" transform="translate(1103.739 3849)" fill="#075384" stroke="#0e3b71" stroke-width="1"/>
+    <g id="Mask_Group_290" data-name="Mask Group 290" transform="translate(907.925 160)" clip-path="url(#clip-path)">
+      <g id="Group_970" data-name="Group 970">
+        <path id="Path_725" data-name="Path 725" d="M0,.465S5.161,44.112,41.419,35.48l1.266-.427.1-.026h0c20.707-7.286,24.771,1.763,24.771,1.763s3.733,5.137,2.618,16.739S81.9,73.749,97.011,63.951c.242-.157.48-.316.791-.529,12.423-7.612,19.168-27.042,44.943-26.947l.823.04c8.358-.075,18.842,4.795,18.842,4.795s13.173,7.006,17.664,2.521c.054-.054.053-.068.167-.184.029-1.582,0-2.337,0-2.337V0Z" transform="translate(233.586 3807.389) rotate(180)" fill="#febe10"/>
+        <path id="Path_726" data-name="Path 726" d="M0,.465S5.161,44.112,41.419,35.48l1.266-.427.1-.026h0c20.707-7.286,24.771,1.763,24.771,1.763s3.733,5.137,2.618,16.739S81.9,73.749,97.011,63.951c.242-.157.48-.316.791-.529,12.423-7.612,17.36-16.157,43.134-16.062.26.012,2.326-10.86,2.631-10.845,8.358-.075,18.842,4.795,18.842,4.795s13.173,7.006,17.664,2.521c.054-.054.053-.068.167-.184.029-1.582,0-2.337,0-2.337V0Z" transform="translate(187.333 3637.543)" fill="#ee2346"/>
+        <path id="Path_727" data-name="Path 727" d="M0,204.63s66.531,3.865,65.286-23.762c0-.144-.063-.962-.063-.962s.047-4.666-12.1-19.137-4.458-28.7,10.717-39.967,15.1-30.585-2.124-48.011S43.7,47.708,49.35,24.248,25.446,0,25.446,0Z" transform="matrix(-0.208, -0.978, 0.978, -0.208, 210.636, 3834.832)" fill="rgba(254,190,16,0.25)"/>
+      </g>
+    </g>
+  </g>
+</svg>
